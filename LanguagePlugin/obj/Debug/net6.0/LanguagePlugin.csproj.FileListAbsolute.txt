@@ -1,0 +1,12 @@
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\bin\Debug\net6.0\LanguagePlugin.deps.json
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\bin\Debug\net6.0\LanguagePlugin.dll
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\bin\Debug\net6.0\TheOtherRoles.dll
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\LanguagePlugin.csproj.AssemblyReference.cache
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\LanguagePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\LanguagePlugin.AssemblyInfoInputs.cache
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\LanguagePlugin.AssemblyInfo.cs
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\LanguagePlugin.csproj.CoreCompileInputs.cache
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\Language.1A4AEBDF.Up2Date
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\LanguagePlugin.dll
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\refint\LanguagePlugin.dll
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\ref\LanguagePlugin.dll
