@@ -10,3 +10,4 @@ C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin
 C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\LanguagePlugin.dll
 C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\refint\LanguagePlugin.dll
 C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\ref\LanguagePlugin.dll
+C:\Users\黃禾豐\Contacts\Desktop\LanguagePlugin\LanguagePlugin\LanguagePlugin\obj\Debug\net6.0\LanguagePlugin.sourcelink.json

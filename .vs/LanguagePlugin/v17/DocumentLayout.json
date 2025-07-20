@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "LanguagePlugin\\translation.cs",
               "ToolTip": "C:\\Users\\\u9EC3\u79BE\u8C50\\Contacts\\Desktop\\LanguagePlugin\\LanguagePlugin\\LanguagePlugin\\translation.cs",
               "RelativeToolTip": "LanguagePlugin\\translation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T12:33:48.631Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "LanguagePlugin\\LanguagePluginPlugin.cs",
               "ToolTip": "C:\\Users\\\u9EC3\u79BE\u8C50\\Contacts\\Desktop\\LanguagePlugin\\LanguagePlugin\\LanguagePlugin\\LanguagePluginPlugin.cs",
               "RelativeToolTip": "LanguagePlugin\\LanguagePluginPlugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T08:50:59.777Z",
               "EditorCaption": ""
@@ -60,7 +60,8 @@
               "RelativeToolTip": "LanguagePlugin\\LanguagePlugin.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-20T08:41:56.291Z"
+              "WhenOpened": "2025-07-20T08:41:56.291Z",
+              "EditorCaption": ""
             }
           ]
         }

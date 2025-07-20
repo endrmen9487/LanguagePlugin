@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Mod generated using Reactor Template")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0-dev")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0-dev+915de8540a0a59f6a9dce38f23a3c30491c36bb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("LanguagePlugin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LanguagePlugin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
